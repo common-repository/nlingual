@@ -1,0 +1,1 @@
+This update changes the cloning system to make post content copying, optional (off by default). If you wish to keep this enabled, you will need to manually do so after updating.
